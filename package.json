@@ -1,0 +1,12 @@
+{
+  "name": "andre",
+  "version": "1.0.0",
+  "description": "this a project example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node example.js",
+    "dev": "node example.js"
+  },
+  "author": "mendao",
+  "license": "ISC"
+}
